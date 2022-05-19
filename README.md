@@ -1,1 +1,1 @@
-# Cozinha-C
+# Calculando a área da Cozinha com Linguagem em C.
